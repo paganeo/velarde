@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://velarde.ws/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://velarde.ws/</loc>
+</url>
+<url>
+<loc>https://velarde.ws/antilope/</loc>
+<lastmod>2022-05-31T09:23:49-06:00</lastmod>
+<image:image>
+<image:loc>https://velarde.ws/media\posts\3/Antilope.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://velarde.ws/asamblea-de-nicaragua/</loc>
+<lastmod>2022-05-31T09:24:17-06:00</lastmod>
+<image:image>
+<image:loc>https://velarde.ws/media\posts\4/Asamblea-Nacional-Managua-Nicaragua.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://velarde.ws/atardecer-en-montelimar/</loc>
+<lastmod>2022-05-31T09:24:35-06:00</lastmod>
+<image:image>
+<image:loc>https://velarde.ws/media\posts\5/Atardecer-en-Montelimar.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

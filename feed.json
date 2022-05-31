@@ -1,0 +1,49 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Velarde",
+    "description": "",
+    "home_page_url": "https://velarde.ws",
+    "feed_url": "https://velarde.ws/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fernando Velarde"
+    },
+    "items": [
+        {
+            "id": "https://velarde.ws/atardecer-en-montelimar/",
+            "url": "https://velarde.ws/atardecer-en-montelimar/",
+            "title": "Atardecer en Montelimar",
+            "author": {
+                "name": "Fernando Velarde"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-31T09:24:35-06:00",
+            "date_modified": "2022-05-31T09:24:35-06:00"
+        },
+        {
+            "id": "https://velarde.ws/asamblea-de-nicaragua/",
+            "url": "https://velarde.ws/asamblea-de-nicaragua/",
+            "title": "Asamblea de Nicaragua",
+            "author": {
+                "name": "Fernando Velarde"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-31T09:24:17-06:00",
+            "date_modified": "2022-05-31T09:24:17-06:00"
+        },
+        {
+            "id": "https://velarde.ws/antilope/",
+            "url": "https://velarde.ws/antilope/",
+            "title": "Antílope",
+            "author": {
+                "name": "Fernando Velarde"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-31T09:23:49-06:00",
+            "date_modified": "2022-05-31T09:23:49-06:00"
+        }
+    ]
+}
