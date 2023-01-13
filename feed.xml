@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Velarde</title>
     <link href="https://velarde.ws/feed.xml" rel="self" />
     <link href="https://velarde.ws" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://velarde.ws/velero-en-lago-cocibolca-nicaragua/"/>
         <id>https://velarde.ws/velero-en-lago-cocibolca-nicaragua/</id>
+        <media:content url="https://velarde.ws/media/posts/23/Velero-en-Lago-Cocibolca-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:44:04-06:00</updated>
             <summary></summary>
@@ -28,6 +29,7 @@
         </author>
         <link href="https://velarde.ws/tigre-de-bengala/"/>
         <id>https://velarde.ws/tigre-de-bengala/</id>
+        <media:content url="https://velarde.ws/media/posts/22/Tigre-de-Bengala-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:44:01-06:00</updated>
             <summary></summary>
@@ -40,6 +42,7 @@
         </author>
         <link href="https://velarde.ws/rana-amarilla/"/>
         <id>https://velarde.ws/rana-amarilla/</id>
+        <media:content url="https://velarde.ws/media/posts/21/Rana-amarilla-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:43:58-06:00</updated>
             <summary></summary>
@@ -52,6 +55,7 @@
         </author>
         <link href="https://velarde.ws/pescadores-en-isla-de-ometepe-nicaragua/"/>
         <id>https://velarde.ws/pescadores-en-isla-de-ometepe-nicaragua/</id>
+        <media:content url="https://velarde.ws/media/posts/20/Pescadores-en-Ometepe-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:43:56-06:00</updated>
             <summary></summary>
@@ -64,6 +68,7 @@
         </author>
         <link href="https://velarde.ws/macro-de-ojo-de-un-gato/"/>
         <id>https://velarde.ws/macro-de-ojo-de-un-gato/</id>
+        <media:content url="https://velarde.ws/media/posts/19/Ojo-de-gato-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:43:51-06:00</updated>
             <summary></summary>
@@ -76,6 +81,7 @@
         </author>
         <link href="https://velarde.ws/mono/"/>
         <id>https://velarde.ws/mono/</id>
+        <media:content url="https://velarde.ws/media/posts/18/Mono-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:43:48-06:00</updated>
             <summary></summary>
@@ -88,6 +94,7 @@
         </author>
         <link href="https://velarde.ws/momotombo-en-erupcion/"/>
         <id>https://velarde.ws/momotombo-en-erupcion/</id>
+        <media:content url="https://velarde.ws/media/posts/17/Momotombo-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:43:44-06:00</updated>
             <summary></summary>
@@ -100,6 +107,7 @@
         </author>
         <link href="https://velarde.ws/lemur/"/>
         <id>https://velarde.ws/lemur/</id>
+        <media:content url="https://velarde.ws/media/posts/16/Lemur-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:43:42-06:00</updated>
             <summary></summary>
@@ -112,6 +120,7 @@
         </author>
         <link href="https://velarde.ws/jirafa/"/>
         <id>https://velarde.ws/jirafa/</id>
+        <media:content url="https://velarde.ws/media/posts/15/Jirafa-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:43:37-06:00</updated>
             <summary></summary>
@@ -124,6 +133,7 @@
         </author>
         <link href="https://velarde.ws/guardabarranco/"/>
         <id>https://velarde.ws/guardabarranco/</id>
+        <media:content url="https://velarde.ws/media/posts/14/Guardabarranco-2.jpg" medium="image" />
 
         <updated>2022-05-31T10:43:34-06:00</updated>
             <summary></summary>
