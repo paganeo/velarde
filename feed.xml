@@ -3,7 +3,7 @@
     <title>Velarde</title>
     <link href="https://velarde.ws/feed.xml" rel="self" />
     <link href="https://velarde.ws" />
-    <updated>2023-03-27T12:51:49-06:00</updated>
+    <updated>2023-03-27T13:28:20-06:00</updated>
     <author>
         <name>Fernando Velarde</name>
     </author>
@@ -75,7 +75,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Mono</title>
+        <title>The Significance of Monkeys in Zoo Miami: A Respectful Biologist&#x27;s Perspective</title>
         <author>
             <name>Fernando Velarde</name>
         </author>
@@ -83,8 +83,13 @@
         <id>https://velarde.ws/mono/</id>
         <media:content url="https://velarde.ws/media/posts/18/Mono-2.jpg" medium="image" />
 
-        <updated>2023-02-13T12:07:03-06:00</updated>
-            <summary></summary>
+        <updated>2023-03-27T13:28:20-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://velarde.ws/media/posts/18/Mono-2.jpg" alt="Mono" />
+                    Monkeys, as fascinating and diverse primates, have always been an object of&hellip;
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
@@ -96,8 +101,13 @@
         <id>https://velarde.ws/momotombo-en-erupcion/</id>
         <media:content url="https://velarde.ws/media/posts/17/Momotombo-2.jpg" medium="image" />
 
-        <updated>2023-02-13T12:06:33-06:00</updated>
-            <summary></summary>
+        <updated>2023-03-27T13:11:59-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://velarde.ws/media/posts/17/Momotombo-2.jpg" alt="Momotombo en erupción" />
+                    The Momotombo volcano in Nicaragua erupted on December 1, 2015, after being&hellip;
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
@@ -109,11 +119,11 @@
         <id>https://velarde.ws/lemur/</id>
         <media:content url="https://velarde.ws/media/posts/16/Lemur-2.jpg" medium="image" />
 
-        <updated>2023-03-27T12:51:49-06:00</updated>
+        <updated>2023-03-27T12:57:46-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://velarde.ws/media/posts/16/Lemur-2.jpg" alt="Lémur" />
-                    Lemurs are a unique and fascinating group of primates found only on&hellip;
+                    Lemurs are a remarkable species of primates that can only be found&hellip;
                 ]]>
             </summary>
         <content></content>

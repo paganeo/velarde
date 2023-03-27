@@ -77,7 +77,8 @@
         {
             "id": "https://velarde.ws/mono/",
             "url": "https://velarde.ws/mono/",
-            "title": "Mono",
+            "title": "The Significance of Monkeys in Zoo Miami: A Respectful Biologist&#x27;s Perspective",
+            "summary": "Monkeys, as fascinating and diverse primates, have always been an object of&hellip;",
             "image": "https://velarde.ws/media/posts/18/Mono-2.jpg",
             "author": {
                 "name": "Fernando Velarde"
@@ -85,12 +86,13 @@
             "tags": [
             ],
             "date_published": "2022-05-31T10:30:35-06:00",
-            "date_modified": "2023-02-13T12:07:03-06:00"
+            "date_modified": "2023-03-27T13:28:20-06:00"
         },
         {
             "id": "https://velarde.ws/momotombo-en-erupcion/",
             "url": "https://velarde.ws/momotombo-en-erupcion/",
             "title": "Momotombo en erupción",
+            "summary": "The Momotombo volcano in Nicaragua erupted on December 1, 2015, after being&hellip;",
             "image": "https://velarde.ws/media/posts/17/Momotombo-2.jpg",
             "author": {
                 "name": "Fernando Velarde"
@@ -98,13 +100,13 @@
             "tags": [
             ],
             "date_published": "2022-05-31T10:30:19-06:00",
-            "date_modified": "2023-02-13T12:06:33-06:00"
+            "date_modified": "2023-03-27T13:11:59-06:00"
         },
         {
             "id": "https://velarde.ws/lemur/",
             "url": "https://velarde.ws/lemur/",
             "title": "Lémur",
-            "summary": "Lemurs are a unique and fascinating group of primates found only on&hellip;",
+            "summary": "Lemurs are a remarkable species of primates that can only be found&hellip;",
             "image": "https://velarde.ws/media/posts/16/Lemur-2.jpg",
             "author": {
                 "name": "Fernando Velarde"
@@ -112,7 +114,7 @@
             "tags": [
             ],
             "date_published": "2022-05-31T10:30:01-06:00",
-            "date_modified": "2023-03-27T12:51:49-06:00"
+            "date_modified": "2023-03-27T12:57:46-06:00"
         },
         {
             "id": "https://velarde.ws/jirafa/",
