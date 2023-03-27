@@ -3,12 +3,24 @@
     <title>Velarde</title>
     <link href="https://velarde.ws/feed.xml" rel="self" />
     <link href="https://velarde.ws" />
-    <updated>2023-03-27T13:28:20-06:00</updated>
+    <updated>2023-03-27T15:23:43-06:00</updated>
     <author>
         <name>Fernando Velarde</name>
     </author>
     <id>https://velarde.ws</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Fernando Velarde</name>
+        </author>
+        <link href="https://velarde.ws/contact/"/>
+        <id>https://velarde.ws/contact/</id>
+
+        <updated>2023-03-27T15:23:43-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Velero en Lago Cocibolca, Nicaragua</title>
         <author>
@@ -142,24 +154,6 @@
                 <![CDATA[
                         <img src="https://velarde.ws/media/posts/15/Jirafa-2.jpg" alt="Jirafa" />
                     Giraffes (Giraffa camelopardalis) are the tallest mammals in the world, reaching up&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Guardabarranco</title>
-        <author>
-            <name>Fernando Velarde</name>
-        </author>
-        <link href="https://velarde.ws/guardabarranco/"/>
-        <id>https://velarde.ws/guardabarranco/</id>
-        <media:content url="https://velarde.ws/media/posts/14/Guardabarranco-2.jpg" medium="image" />
-
-        <updated>2023-03-27T12:42:59-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://velarde.ws/media/posts/14/Guardabarranco-2.jpg" alt="Guardabarranco" />
-                    The Guardabarranco (Eumomota superciliosa) is a bird species of the Momotidae family,&hellip;
                 ]]>
             </summary>
         <content></content>
