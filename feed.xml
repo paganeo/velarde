@@ -3,7 +3,7 @@
     <title>Velarde</title>
     <link href="https://velarde.ws/feed.xml" rel="self" />
     <link href="https://velarde.ws" />
-    <updated>2023-03-27T15:23:43-06:00</updated>
+    <updated>2023-03-28T12:06:03-06:00</updated>
     <author>
         <name>Fernando Velarde</name>
     </author>
@@ -22,7 +22,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Velero en Lago Cocibolca, Nicaragua</title>
+        <title>Embracing the Winds of Adventure: A Sailboat Journey on Lake Cocibolca</title>
         <author>
             <name>Fernando Velarde</name>
         </author>
@@ -30,12 +30,17 @@
         <id>https://velarde.ws/velero-en-lago-cocibolca-nicaragua/</id>
         <media:content url="https://velarde.ws/media/posts/23/Velero-en-Lago-Cocibolca-2.jpg" medium="image" />
 
-        <updated>2023-02-13T12:05:37-06:00</updated>
-            <summary></summary>
+        <updated>2023-03-28T12:06:03-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://velarde.ws/media/posts/23/Velero-en-Lago-Cocibolca-2.jpg" alt="Velero en Lago Cocibolca, Nicaragua" />
+                    It was a hot summer afternoon on Nicaragua's Lake Cocibolca. This magnificent&hellip;
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Tigre de Bengala</title>
+        <title>Majestic Roar: The Enigmatic Bengal Tigers of Zoo Miami and Their Role in Conservation</title>
         <author>
             <name>Fernando Velarde</name>
         </author>
@@ -43,12 +48,17 @@
         <id>https://velarde.ws/tigre-de-bengala/</id>
         <media:content url="https://velarde.ws/media/posts/22/Tigre-de-Bengala-2.jpg" medium="image" />
 
-        <updated>2023-02-13T12:05:48-06:00</updated>
-            <summary></summary>
+        <updated>2023-03-28T11:51:37-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://velarde.ws/media/posts/22/Tigre-de-Bengala-2.jpg" alt="Tigre de Bengala" />
+                    The Bengal tiger, also known as the Royal Bengal Tiger, is one&hellip;
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Rana amarilla</title>
+        <title>The Colorful World of Yellow Frogs: An Overview of their Biology, Ecology, and Reproduction</title>
         <author>
             <name>Fernando Velarde</name>
         </author>
@@ -56,12 +66,17 @@
         <id>https://velarde.ws/rana-amarilla/</id>
         <media:content url="https://velarde.ws/media/posts/21/Rana-amarilla-2.jpg" medium="image" />
 
-        <updated>2023-02-13T12:05:57-06:00</updated>
-            <summary></summary>
+        <updated>2023-03-28T11:49:14-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://velarde.ws/media/posts/21/Rana-amarilla-2.jpg" alt="Rana amarilla" />
+                    Yellow frogs are a fascinating and bright amphibian species found all over&hellip;
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Pescadores en Isla de Ometepe, Nicaragua</title>
+        <title>Fishing with the Locals: Discovering the Riches of Ometepe Island&#x27;s Fishing Communities</title>
         <author>
             <name>Fernando Velarde</name>
         </author>
@@ -69,12 +84,17 @@
         <id>https://velarde.ws/pescadores-en-isla-de-ometepe-nicaragua/</id>
         <media:content url="https://velarde.ws/media/posts/20/Pescadores-en-Ometepe-2.jpg" medium="image" />
 
-        <updated>2023-02-13T12:06:40-06:00</updated>
-            <summary></summary>
+        <updated>2023-03-28T09:58:20-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://velarde.ws/media/posts/20/Pescadores-en-Ometepe-2.jpg" alt="Pescadores en Isla de Ometepe, Nicaragua" />
+                    Ometepe Island is a Nicaraguan hidden gem, with stunning beaches, lush tropical&hellip;
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Macro de Ojo de un gato</title>
+        <title>Lilly&#x27;s Macro Eye: A Close-Up Look at the World of a Feline</title>
         <author>
             <name>Fernando Velarde</name>
         </author>
@@ -82,8 +102,13 @@
         <id>https://velarde.ws/macro-de-ojo-de-un-gato/</id>
         <media:content url="https://velarde.ws/media/posts/19/Ojo-de-gato-2.jpg" medium="image" />
 
-        <updated>2023-02-13T12:06:53-06:00</updated>
-            <summary></summary>
+        <updated>2023-03-28T09:58:58-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://velarde.ws/media/posts/19/Ojo-de-gato-2.jpg" alt="Macro de Ojo de un gato" />
+                    Meet Lilly, a curious and playful kitten that enjoys exploring her surroundings.
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
@@ -95,7 +120,7 @@
         <id>https://velarde.ws/mono/</id>
         <media:content url="https://velarde.ws/media/posts/18/Mono-2.jpg" medium="image" />
 
-        <updated>2023-03-27T13:28:20-06:00</updated>
+        <updated>2023-03-28T09:59:42-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://velarde.ws/media/posts/18/Mono-2.jpg" alt="Mono" />
@@ -105,7 +130,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Momotombo en erupción</title>
+        <title>Strombolian Eruption of Momotombo Volcano in 2015: Insights into Subduction-related Magmatic Processes in the Central American Volcanic Arc</title>
         <author>
             <name>Fernando Velarde</name>
         </author>
@@ -113,7 +138,7 @@
         <id>https://velarde.ws/momotombo-en-erupcion/</id>
         <media:content url="https://velarde.ws/media/posts/17/Momotombo-2.jpg" medium="image" />
 
-        <updated>2023-03-27T13:11:59-06:00</updated>
+        <updated>2023-03-28T10:00:57-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://velarde.ws/media/posts/17/Momotombo-2.jpg" alt="Momotombo en erupción" />
@@ -123,7 +148,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Lémur</title>
+        <title>Conservation and Behavioral Observations of Lemurs (Lemuridae) in Captivity: A Case Study of Zoo Miami&#x27;s Lemur Exhibit</title>
         <author>
             <name>Fernando Velarde</name>
         </author>
@@ -131,7 +156,7 @@
         <id>https://velarde.ws/lemur/</id>
         <media:content url="https://velarde.ws/media/posts/16/Lemur-2.jpg" medium="image" />
 
-        <updated>2023-03-27T12:57:46-06:00</updated>
+        <updated>2023-03-28T10:01:26-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://velarde.ws/media/posts/16/Lemur-2.jpg" alt="Lémur" />
@@ -141,7 +166,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Jirafa</title>
+        <title>Assessing the Behavioral and Physiological Adaptations of Giraffes (Giraffa camelopardalis) in Captive Settings: A Case Study of Miami Zoo</title>
         <author>
             <name>Fernando Velarde</name>
         </author>
@@ -149,7 +174,7 @@
         <id>https://velarde.ws/jirafa/</id>
         <media:content url="https://velarde.ws/media/posts/15/Jirafa-2.jpg" medium="image" />
 
-        <updated>2023-03-27T12:46:53-06:00</updated>
+        <updated>2023-03-28T10:01:58-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://velarde.ws/media/posts/15/Jirafa-2.jpg" alt="Jirafa" />
