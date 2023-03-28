@@ -3,12 +3,24 @@
     <title>Velarde</title>
     <link href="https://velarde.ws/feed.xml" rel="self" />
     <link href="https://velarde.ws" />
-    <updated>2023-03-28T12:06:03-06:00</updated>
+    <updated>2023-03-28T13:23:28-06:00</updated>
     <author>
         <name>Fernando Velarde</name>
     </author>
     <id>https://velarde.ws</id>
 
+    <entry>
+        <title>Privacy police</title>
+        <author>
+            <name>Fernando Velarde</name>
+        </author>
+        <link href="https://velarde.ws/privacy-police/"/>
+        <id>https://velarde.ws/privacy-police/</id>
+
+        <updated>2023-03-28T13:23:28-06:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Contact</title>
         <author>
@@ -161,24 +173,6 @@
                 <![CDATA[
                         <img src="https://velarde.ws/media/posts/16/Lemur-2.jpg" alt="Lémur" />
                     Lemurs are a remarkable species of primates that can only be found&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Assessing the Behavioral and Physiological Adaptations of Giraffes (Giraffa camelopardalis) in Captive Settings: A Case Study of Miami Zoo</title>
-        <author>
-            <name>Fernando Velarde</name>
-        </author>
-        <link href="https://velarde.ws/jirafa/"/>
-        <id>https://velarde.ws/jirafa/</id>
-        <media:content url="https://velarde.ws/media/posts/15/Jirafa-2.jpg" medium="image" />
-
-        <updated>2023-03-28T10:01:58-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://velarde.ws/media/posts/15/Jirafa-2.jpg" alt="Jirafa" />
-                    Giraffes (Giraffa camelopardalis) are the tallest mammals in the world, reaching up&hellip;
                 ]]>
             </summary>
         <content></content>

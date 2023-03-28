@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://velarde.ws/privacy-police/",
+            "url": "https://velarde.ws/privacy-police/",
+            "title": "Privacy police",
+            "author": {
+                "name": "Fernando Velarde"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-28T13:23:28-06:00",
+            "date_modified": "2023-03-28T13:23:28-06:00"
+        },
+        {
             "id": "https://velarde.ws/contact/",
             "url": "https://velarde.ws/contact/",
             "title": "Contact",
@@ -132,20 +144,6 @@
             ],
             "date_published": "2022-05-31T10:30:01-06:00",
             "date_modified": "2023-03-28T10:01:26-06:00"
-        },
-        {
-            "id": "https://velarde.ws/jirafa/",
-            "url": "https://velarde.ws/jirafa/",
-            "title": "Assessing the Behavioral and Physiological Adaptations of Giraffes (Giraffa camelopardalis) in Captive Settings: A Case Study of Miami Zoo",
-            "summary": "Giraffes (Giraffa camelopardalis) are the tallest mammals in the world, reaching up&hellip;",
-            "image": "https://velarde.ws/media/posts/15/Jirafa-2.jpg",
-            "author": {
-                "name": "Fernando Velarde"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-31T10:29:43-06:00",
-            "date_modified": "2023-03-28T10:01:58-06:00"
         }
     ]
 }
