@@ -3,7 +3,7 @@
     <title>Velarde</title>
     <link href="https://velarde.ws/feed.xml" rel="self" />
     <link href="https://velarde.ws" />
-    <updated>2023-03-28T13:23:28-06:00</updated>
+    <updated>2023-03-28T19:03:13-06:00</updated>
     <author>
         <name>Fernando Velarde</name>
     </author>
@@ -17,8 +17,12 @@
         <link href="https://velarde.ws/privacy-police/"/>
         <id>https://velarde.ws/privacy-police/</id>
 
-        <updated>2023-03-28T13:23:28-06:00</updated>
-            <summary></summary>
+        <updated>2023-03-28T18:40:00-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Last Updated: March 28th, 2023 This Privacy Policy explains how velarde.ws collects,&hellip;
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
@@ -29,8 +33,12 @@
         <link href="https://velarde.ws/contact/"/>
         <id>https://velarde.ws/contact/</id>
 
-        <updated>2023-03-27T15:23:43-06:00</updated>
-            <summary></summary>
+        <updated>2023-03-28T19:03:13-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Contact Me
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
