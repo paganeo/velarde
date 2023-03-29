@@ -8,7 +8,7 @@
 <loc>https://velarde.ws/antilope/</loc>
 <lastmod>2023-03-27T13:29:13-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\3/Antilope-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/3/Antilope-2.jpg</image:loc>
 <image:title><![CDATA[Antílope]]></image:title>
 </image:image>
 </url>
@@ -16,7 +16,7 @@
 <loc>https://velarde.ws/asamblea-de-nicaragua/</loc>
 <lastmod>2023-03-27T13:29:22-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\4/Asamblea-Nacional-Managua-Nicaragua-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/4/Asamblea-Nacional-Managua-Nicaragua-2.jpg</image:loc>
 <image:title><![CDATA[Asamblea de Nicaragua]]></image:title>
 </image:image>
 </url>
@@ -24,7 +24,7 @@
 <loc>https://velarde.ws/atardecer-en-montelimar/</loc>
 <lastmod>2023-03-27T13:35:37-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\5/Atardecer-en-Montelimar-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/5/Atardecer-en-Montelimar-2.jpg</image:loc>
 <image:title><![CDATA[Atardecer en Montelimar, Nicaragua]]></image:title>
 </image:image>
 </url>
@@ -32,7 +32,7 @@
 <loc>https://velarde.ws/calle-de-granada-nicaragua/</loc>
 <lastmod>2023-03-28T10:03:26-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\13/Granada-Nicaragua-Calle-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/13/Granada-Nicaragua-Calle-2.jpg</image:loc>
 <image:title><![CDATA[Calle de Granada, Nicaragua]]></image:title>
 </image:image>
 </url>
@@ -40,7 +40,7 @@
 <loc>https://velarde.ws/catedral-de-granada-nicaragua/</loc>
 <lastmod>2023-03-27T13:36:12-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\6/Catedral-de-Granada-Nicaragua-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/6/Catedral-de-Granada-Nicaragua-2.jpg</image:loc>
 <image:title><![CDATA[Catedral de Granada, Nicaragua]]></image:title>
 </image:image>
 </url>
@@ -48,7 +48,7 @@
 <loc>https://velarde.ws/cementerio/</loc>
 <lastmod>2023-03-27T13:31:18-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\7/Cementerio-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/7/Cementerio-2.jpg</image:loc>
 <image:title><![CDATA[Cementerio]]></image:title>
 </image:image>
 </url>
@@ -56,7 +56,7 @@
 <loc>https://velarde.ws/cielo/</loc>
 <lastmod>2023-03-27T13:32:24-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\8/Cielo-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/8/Cielo-2.jpg</image:loc>
 <image:title><![CDATA[Cielo]]></image:title>
 </image:image>
 </url>
@@ -64,19 +64,23 @@
 <loc>https://velarde.ws/construccion/</loc>
 <lastmod>2023-03-27T13:32:52-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\9/Construccion-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/9/Construccion-2.jpg</image:loc>
 <image:title><![CDATA[Construcción]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://velarde.ws/contact/</loc>
-<lastmod>2023-03-29T07:41:58-06:00</lastmod>
+<lastmod>2023-03-29T08:00:45-06:00</lastmod>
+<image:image>
+<image:loc>https://velarde.ws/media/posts/24/Featured_image_for_a_Contact_form_for_a_website_about_p_f34071c2-fbbc-46a5-8a93-ccf7eb1a9581.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://velarde.ws/flamingos/</loc>
 <lastmod>2023-03-27T13:33:23-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\10/Flamingo-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/10/Flamingo-2.jpg</image:loc>
 <image:title><![CDATA[Flamingos]]></image:title>
 </image:image>
 </url>
@@ -84,7 +88,7 @@
 <loc>https://velarde.ws/gaviota/</loc>
 <lastmod>2023-03-27T13:33:55-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\11/Gaviota-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/11/Gaviota-2.jpg</image:loc>
 <image:title><![CDATA[Gaviota]]></image:title>
 </image:image>
 </url>
@@ -92,7 +96,7 @@
 <loc>https://velarde.ws/granada-nicaragua/</loc>
 <lastmod>2023-03-27T12:37:05-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\12/Granada-Nicaragua-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/12/Granada-Nicaragua-2.jpg</image:loc>
 <image:title><![CDATA[Granada, Nicaragua]]></image:title>
 </image:image>
 </url>
@@ -100,7 +104,7 @@
 <loc>https://velarde.ws/guardabarranco/</loc>
 <lastmod>2023-03-28T10:03:19-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\14/Guardabarranco-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/14/Guardabarranco-2.jpg</image:loc>
 <image:title><![CDATA[Guardabarranco]]></image:title>
 </image:image>
 </url>
@@ -108,7 +112,7 @@
 <loc>https://velarde.ws/jirafa/</loc>
 <lastmod>2023-03-28T10:01:58-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\15/Jirafa-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/15/Jirafa-2.jpg</image:loc>
 <image:title><![CDATA[Jirafa]]></image:title>
 </image:image>
 </url>
@@ -116,7 +120,7 @@
 <loc>https://velarde.ws/lemur/</loc>
 <lastmod>2023-03-28T10:01:26-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\16/Lemur-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/16/Lemur-2.jpg</image:loc>
 <image:title><![CDATA[Lémur]]></image:title>
 </image:image>
 </url>
@@ -124,7 +128,7 @@
 <loc>https://velarde.ws/macro-de-ojo-de-un-gato/</loc>
 <lastmod>2023-03-28T09:58:58-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\19/Ojo-de-gato-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/19/Ojo-de-gato-2.jpg</image:loc>
 <image:title><![CDATA[Macro de Ojo de un gato]]></image:title>
 </image:image>
 </url>
@@ -132,7 +136,7 @@
 <loc>https://velarde.ws/momotombo-en-erupcion/</loc>
 <lastmod>2023-03-28T10:00:57-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\17/Momotombo-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/17/Momotombo-2.jpg</image:loc>
 <image:title><![CDATA[Momotombo en erupción]]></image:title>
 </image:image>
 </url>
@@ -140,7 +144,7 @@
 <loc>https://velarde.ws/mono/</loc>
 <lastmod>2023-03-28T09:59:42-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\18/Mono-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/18/Mono-2.jpg</image:loc>
 <image:title><![CDATA[Mono]]></image:title>
 </image:image>
 </url>
@@ -148,19 +152,23 @@
 <loc>https://velarde.ws/pescadores-en-isla-de-ometepe-nicaragua/</loc>
 <lastmod>2023-03-28T09:58:20-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\20/Pescadores-en-Ometepe-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/20/Pescadores-en-Ometepe-2.jpg</image:loc>
 <image:title><![CDATA[Pescadores en Isla de Ometepe, Nicaragua]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://velarde.ws/privacy-police/</loc>
-<lastmod>2023-03-28T18:40:00-06:00</lastmod>
+<lastmod>2023-03-29T07:57:03-06:00</lastmod>
+<image:image>
+<image:loc>https://velarde.ws/media/posts/25/Featured_image_for_a_Privacy_text_for_a_website_about_p_2ef4da3c-187d-4252-bb9d-78f81acaca7f.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://velarde.ws/rana-amarilla/</loc>
 <lastmod>2023-03-28T11:49:14-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\21/Rana-amarilla-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/21/Rana-amarilla-2.jpg</image:loc>
 <image:title><![CDATA[Rana amarilla]]></image:title>
 </image:image>
 </url>
@@ -168,7 +176,7 @@
 <loc>https://velarde.ws/tigre-de-bengala/</loc>
 <lastmod>2023-03-28T11:51:37-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\22/Tigre-de-Bengala-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/22/Tigre-de-Bengala-2.jpg</image:loc>
 <image:title><![CDATA[Tigre de Bengala]]></image:title>
 </image:image>
 </url>
@@ -176,7 +184,7 @@
 <loc>https://velarde.ws/velero-en-lago-cocibolca-nicaragua/</loc>
 <lastmod>2023-03-28T12:06:03-06:00</lastmod>
 <image:image>
-<image:loc>https://velarde.ws/media\posts\23/Velero-en-Lago-Cocibolca-2.jpg</image:loc>
+<image:loc>https://velarde.ws/media/posts/23/Velero-en-Lago-Cocibolca-2.jpg</image:loc>
 <image:title><![CDATA[Velero en Lago Cocibolca, Nicaragua]]></image:title>
 </image:image>
 </url>

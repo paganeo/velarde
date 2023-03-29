@@ -3,7 +3,7 @@
     <title>Velarde</title>
     <link href="https://velarde.ws/feed.xml" rel="self" />
     <link href="https://velarde.ws" />
-    <updated>2023-03-29T07:41:58-06:00</updated>
+    <updated>2023-03-29T08:00:45-06:00</updated>
     <author>
         <name>Fernando Velarde</name>
     </author>
@@ -16,10 +16,12 @@
         </author>
         <link href="https://velarde.ws/privacy-police/"/>
         <id>https://velarde.ws/privacy-police/</id>
+        <media:content url="https://velarde.ws/media/posts/25/Featured_image_for_a_Privacy_text_for_a_website_about_p_2ef4da3c-187d-4252-bb9d-78f81acaca7f.png" medium="image" />
 
-        <updated>2023-03-28T18:40:00-06:00</updated>
+        <updated>2023-03-29T07:57:03-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://velarde.ws/media/posts/25/Featured_image_for_a_Privacy_text_for_a_website_about_p_2ef4da3c-187d-4252-bb9d-78f81acaca7f.png" alt="" />
                     Last Updated: March 28th, 2023 This Privacy Policy explains how velarde.ws collects,&hellip;
                 ]]>
             </summary>
@@ -32,10 +34,12 @@
         </author>
         <link href="https://velarde.ws/contact/"/>
         <id>https://velarde.ws/contact/</id>
+        <media:content url="https://velarde.ws/media/posts/24/Featured_image_for_a_Contact_form_for_a_website_about_p_f34071c2-fbbc-46a5-8a93-ccf7eb1a9581.png" medium="image" />
 
-        <updated>2023-03-29T07:41:58-06:00</updated>
+        <updated>2023-03-29T08:00:45-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://velarde.ws/media/posts/24/Featured_image_for_a_Contact_form_for_a_website_about_p_f34071c2-fbbc-46a5-8a93-ccf7eb1a9581.png" alt="" />
                     Name: Email: Message: Send
                 ]]>
             </summary>
